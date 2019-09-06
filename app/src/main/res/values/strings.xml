@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="btn_new">Nuevo Encuestado</string>
+    <string name="btn_list">Lista Encuestado</string>
+    <string name="btn_pros">Procesar Encuesta</string>
+    <string name="txt_nom">Ingrese su nombre</string>
+    <string name="txt_ape">Ingrese su apellido</string>
+    <string name="btn_ali">Listar Alimentos</string>
+    <string name="P_bar">0 %</string>
+    <string name="ali">Alimento</string>
+    <string name="selecion">Alimento Seleccionado</string>
+    <string name="btn_enc">Agregar encuestado</string>
+    <string name="txt_ali">Lista de Alimentos</string>
+</resources>
